@@ -1,33 +1,33 @@
-1. 
+* 1. 
     cd    - current directory, breytir slóðinni sem verið er að vinna í.
     cd ~  - skrifar home slóðina fyrir þig, þarft ekki að skrifa '/home/notandi/..'
     ls    - sýnir allt sem  er á slóðinni sem þú ert staðsettur á.
     pwd   - print working directory, skrifar út slóðina sem þú ert staðsettur á.
     mkdir - býr til nýtt directory/slóð.
     
-2.  
+* 2.  
     git clone    - tekur afrit af directory sem er nú þegar til og setur það í nýtt directory.
     git log      - sýnir commit skrá, stjórnar hvað commit skipunin sýnir.
     git status   - sýnir gögn sem innihalda ekki sama efnið og gögn sem ekki er verið að rekja.
     git diff     - sýnir breytingar sem hafa verið gerðar á skjölum og gögnum.
     git checkout - uppfærir gögnin sem verið er að vinna á.
     
-3.
+* 3.
     git diff                - 
     git diff --staged      - 
     git diff commit1 comit2 - 
     
-4.
+* 4.
     version control -
     
-5.
+* 5.
     helstu kostir við að nota git -
     
-6.  
+* 6.  
     hversu of á að gera commit -
     
-7.
+* 7.
     Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
     
-8.
+* 8.
     Hvenær er sniðugt að nota greinar (branches)? 
