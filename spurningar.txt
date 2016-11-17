@@ -29,9 +29,9 @@
     hversu of á að gera commit - reglulega, gott að þurfa ekki að tapa öllu ef eitthvað fer úrskeiðis.
     
 7.
-		working directory - svæði sem breytingar gerast og eru bornar samanvið local repository.
-		staging area			- skjöl sem á eftir að comitta eru hér.
-		repository				- geymslan sem heldur utan um kóðann.
+		working directoy - svæði sem breytingar gerast og eru bornar samanvið local repository.
+		staging area		 - skjöl sem á eftir að comitta eru hér.
+		repository			 - geymslan sem heldur utan um kóðann.
     
 8.
     gott er að nota branches ef maður hyggst gera stórar breytingar á verkefni.
