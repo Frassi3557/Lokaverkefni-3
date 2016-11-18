@@ -6,3 +6,10 @@
     ls    - sýnir allt sem  er á slóðinni sem þú ert staðsettur á.
     pwd   - print working directory, skrifar út slóðina sem þú ert staðsettur á.
     mkdir - býr til nýtt directory/slóð.
+    
+2.  
+    git clone    - tekur afrit af directory sem er nú þegar til og setur það í nýtt directory.
+    git log      - sýnir commit skrá, stjórnar hvað commit skipunin sýnir.
+    git status   - sýnir gögn sem innihalda ekki sama efnið og gögn sem ekki er verið að rekja.
+    git diff     - sýnir breytingar sem hafa verið gerðar á skjölum og gögnum.
+    git checkout - uppfærir gögnin sem verið er að vinna á.
