@@ -33,3 +33,5 @@
 		repository			 - geymslan sem heldur utan um kóðann.
     
 
+8.
+    gott er að nota branches ef maður hyggst gera stórar breytingar á verkefni.
