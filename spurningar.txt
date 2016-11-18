@@ -1,4 +1,4 @@
-#Svor við spurningum úr GIT.
+﻿#Svor við spurningum úr GIT.
 
 1. 
     cd    - current directory, breytir slóðinni sem verið er að vinna í.
@@ -6,32 +6,3 @@
     ls    - sýnir allt sem  er á slóðinni sem þú ert staðsettur á.
     pwd   - print working directory, skrifar út slóðina sem þú ert staðsettur á.
     mkdir - býr til nýtt directory/slóð.
-    
-2.  
-    git clone    - tekur afrit af directory sem er nú þegar til og setur það í nýtt directory.
-    git log      - sýnir commit skrá, stjórnar hvað commit skipunin sýnir.
-    git status   - sýnir gögn sem innihalda ekki sama efnið og gögn sem ekki er verið að rekja.
-    git diff     - sýnir breytingar sem hafa verið gerðar á skjölum og gögnum.
-    git checkout - uppfærir gögnin sem verið er að vinna á.
-    
-3.
-    git diff                - sýnir breytingar sem hafa verið gerðar í skjali frá síðasta commit.
-    git diff --staged       - sýnir breytingar sem ekki er búið að committa.
-    git diff commit1 comit2 - sýnir muninn á milli tvegga skjala.
-    
-4.
-    version control - heldur utan um breytingarnar sem verða í kóðanum.
-    
-5.
-    helstu kostir við að nota git - git er mjög gott fyrir hópverkefni, getur líka skoðað eldri útgáfur af kóðanum þínum.
-    
-6.  
-    hversu of á að gera commit - reglulega, gott að þurfa ekki að tapa öllu ef eitthvað fer úrskeiðis.
-    
-7.
-		working directoy - svæði sem breytingar gerast og eru bornar samanvið local repository.
-		staging area		 - skjöl sem á eftir að comitta eru hér.
-		repository			 - geymslan sem heldur utan um kóðann.
-    
-8.
-    gott er að nota branches ef maður hyggst gera stórar breytingar á verkefni.
