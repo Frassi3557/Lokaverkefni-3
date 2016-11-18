@@ -26,4 +26,10 @@
     helstu kostir við að nota git - git er mjög gott fyrir hópverkefni, getur líka skoðað eldri útgáfur af kóðanum þínum.
     
 6.  
-    hversu of á að gera commit - reglulega, gott að þurfa ekki að tapa öllu ef eitthvað fer úrskeiðis.
+    hversu of á að gera commit - reglulega, gott að þurfa ekki að tapa öllu ef eitthvað fer úrskeiðis.    
+7.
+		working directoy - svæði sem breytingar gerast og eru bornar samanvið local repository.
+		staging area		 - skjöl sem á eftir að comitta eru hér.
+		repository			 - geymslan sem heldur utan um kóðann.
+    
+
