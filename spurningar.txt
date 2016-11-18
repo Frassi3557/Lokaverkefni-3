@@ -24,3 +24,6 @@
     
 5.
     helstu kostir við að nota git - git er mjög gott fyrir hópverkefni, getur líka skoðað eldri útgáfur af kóðanum þínum.
+    
+6.  
+    hversu of á að gera commit - reglulega, gott að þurfa ekki að tapa öllu ef eitthvað fer úrskeiðis.
