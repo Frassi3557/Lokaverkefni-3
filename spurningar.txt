@@ -13,3 +13,8 @@
     git status   - sýnir gögn sem innihalda ekki sama efnið og gögn sem ekki er verið að rekja.
     git diff     - sýnir breytingar sem hafa verið gerðar á skjölum og gögnum.
     git checkout - uppfærir gögnin sem verið er að vinna á.
+    
+3.
+    git diff                - sýnir breytingar sem hafa verið gerðar í skjali frá síðasta commit.
+    git diff --staged       - sýnir breytingar sem ekki er búið að committa.
+    git diff commit1 comit2 - sýnir muninn á milli tvegga skjala.
