@@ -18,3 +18,6 @@
     git diff                - sýnir breytingar sem hafa verið gerðar í skjali frá síðasta commit.
     git diff --staged       - sýnir breytingar sem ekki er búið að committa.
     git diff commit1 comit2 - sýnir muninn á milli tvegga skjala.
+    
+4.
+    version control - heldur utan um breytingarnar sem verða í kóðanum.
