@@ -21,3 +21,6 @@
     
 4.
     version control - heldur utan um breytingarnar sem verða í kóðanum.
+    
+5.
+    helstu kostir við að nota git - git er mjög gott fyrir hópverkefni, getur líka skoðað eldri útgáfur af kóðanum þínum.
